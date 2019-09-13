@@ -24,16 +24,6 @@ We will be looking for the following things:
 
 ---
 
-## Requirements
-
-- Materials must be in a clearly commented Jupyter notebook.
-- Students should demonstrate the ability to:
-
-    - Analyze diverse datasets & explicitly state your assumptions.
-    - Form hypotheses and justify them with solid statistical testing in NumPy. 
-    - Visualize and interpret your plots using Matplotlib and Seaborn. 
-
----
 
 ### Useful Resources
 
@@ -43,24 +33,3 @@ We will be looking for the following things:
 
 - Inferential statistics and hypothesis testing can get very nuanced. It is okay to violate some of the assumptions underlying the methods you've learned. But be explicit about why you've chosen a particular method, and what the drawbacks may be.
 
----
-
-### Project Feedback + Evaluation
-
-For all projects, students will be evaluated on a simple 4 point scale (0, 1, 2 or 3). Instructors will use this rubric when scoring student performance on each of the core project **requirements:** 
-
- Score | Expectations
- ----- | ------------
- **0** | _Did not complete. Try again._
- **1** | _Does not meet expectations. Try again_
- **2** | _Meets expectations._
- **3** | _Surpasses expectations. Brilliant!_
- 
- | Requirement | Rubric   |
-|------|------|
-|   Jupyter notebook is clearly commented  | |
-|   Analyze diverse datasets & explicitly state your assumptions  | |
-|   Form hypotheses and justify them with solid statistical testing in NumPy  | |
-|   Visualize and interpret your plots using Matplotlib and Seaborn  | |
-
-__Qualitative feedback:__
