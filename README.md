@@ -5,6 +5,7 @@
 In this project, we focus on:
 - Exploratory Data Analysis
 - Hypothesis testing via t-test
+- Hypothesis testing via chi-squared test
 
 ## Business Case
 
