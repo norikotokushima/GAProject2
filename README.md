@@ -1,6 +1,11 @@
 
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 2: Civic data analyses
 
+## Focus
+In this project, we focus on:
+- Exploratory Data Analysis
+- Hypothesis testing via t-test
+
 ## Business Case
 
 Your hometown mayor just created a new data analysis team to give policy advice, and the administration recruited _you_ via LinkedIn to join it. Unfortunately, due to budget constraints, for now the "team" is just you...
